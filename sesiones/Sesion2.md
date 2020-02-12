@@ -6,3 +6,5 @@
 
 ## Lógica 
 
+Invitado especial Everardo Sánchez
+
