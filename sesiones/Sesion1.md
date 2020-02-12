@@ -12,5 +12,16 @@ Desde simples herramientas de cálculo hasta la carrera espacial. Conoce el paso
 
 Invitado especial Luis Ezcurdia
 
+- Calculadoras
+- Tarjetas perforadas
+- Computadoras analógicas
+- Computadoras digitales
+- Mainframes
+- Minicomputadoras
+- Computadoras personales
+- Dispositivos móviles
+- Internet
+
+
 
 
