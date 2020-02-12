@@ -1,6 +1,8 @@
 ## ¿Cómo luce en el código?
 
 Ejemplos de algoritmos sencillos implementados en JavaScript
+Invitado especial Everardo Sánchez
+
 
 
 ## Acerca de los lenguajes de programación 
@@ -11,6 +13,6 @@ Una panorámica de los lenguajes de programación más utilizados actualmente. H
 - Generaciones
 - Paradigmas
 - Tipos de ejecución
-- Lenguajes más utilizados actualmente 
+- Lenguajes más utilizados actualmente  
 
 
