@@ -1,10 +1,11 @@
 ## ¿Qué es una computadora?
 
+Invitado especial Everardo Sánchez
 
 
 
 
 ## Lógica 
 
-Invitado especial Everardo Sánchez
 
+Invitado especial Luis Ezcurdia
