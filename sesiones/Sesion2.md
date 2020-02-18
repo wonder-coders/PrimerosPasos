@@ -39,9 +39,9 @@ Se le conoce como conector lógico (también llamado operador lógico, conectivo
 
 #### Tipos
 
-- NOT
-- AND ( + )
-- OR ( - )
+- NOT (-1*A)
+- AND (A+B)
+- OR (A-B)
 - XOR
 - XNOR
 - NAND
